@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite pruebas de regresión Falabella">
+    <test name="Tests curso automatización Juan Carlos Rivano">
+        <classes>
+            <class name="TestRuner.Test"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
